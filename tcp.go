@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/VaccariaSeed/go-modbus/statute"
+	"github.com/VedrLabs/go_modbus/statute"
 )
 
 var NoConnectionError = errors.New("no connected")

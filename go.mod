@@ -1,4 +1,4 @@
-module github.com/VaccariaSeed/go-modbus
+module github.com/VedrLabs/go_modbus
 
 go 1.25.0
 

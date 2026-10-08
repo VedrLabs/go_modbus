@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/VaccariaSeed/go-modbus/statute"
+	"github.com/VedrLabs/go_modbus/statute"
 	"github.com/tarm/serial"
 )
 

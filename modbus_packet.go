@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/VaccariaSeed/go-modbus/statute"
+	"github.com/VedrLabs/go_modbus/statute"
 )
 
 type ModbusPacket struct {
