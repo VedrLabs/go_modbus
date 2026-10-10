@@ -1,4 +1,4 @@
-module github.com/VedrLabs/go_modbus
+module github.com/vedrlabs/go-modbus
 
 go 1.25.0
 

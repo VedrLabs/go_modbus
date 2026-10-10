@@ -5,8 +5,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/VedrLabs/go_modbus/statute"
 	"github.com/tarm/serial"
+	"github.com/vedrlabs/go-modbus/statute"
 )
 
 type Parity byte
